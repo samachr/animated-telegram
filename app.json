@@ -1,7 +1,7 @@
 {
-  "name": "Supreme-Guitar",
-  "description": "ultimate guitar interface",
+  "name": "animated-telegram",
+  "description": "a data tracker and visualization tool",
   "image": "heroku/python",
-  "repository": "https://github.com/heroku/python-getting-started",
+  "repository": "https://github.com/samachr/animated-telegram",
   "keywords": ["python"]
 }
