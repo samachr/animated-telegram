@@ -1,0 +1,7 @@
+{
+  "name": "Supreme-Guitar",
+  "description": "ultimate guitar interface",
+  "image": "heroku/python",
+  "repository": "https://github.com/heroku/python-getting-started",
+  "keywords": ["python"]
+}
